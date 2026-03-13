@@ -1,4 +1,4 @@
-# Data-Science-projects
+
 # Shakthi Priyadarshini – Data Analytics Portfolio
 
 Welcome to my Data Science and Analytics project portfolio.
